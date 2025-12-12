@@ -29,37 +29,27 @@ Hello! My name is Sasha, I am 18 years old and I study at KHPI. This is my repos
 Here are some of my favorite math formulas:
 
 $$
-
 ax^2+bx+c=0;
-
 $$
 
 $$
-
 α+β=-\frac{b}{a}​,αβ=\frac{c}{a}
-
 $$
 
 ,-**Viète's formulas for quadratic equations**;
 
 $$
-
 D = b^{2} - 4ac
-
 $$
 
 $$
-
 x_{1,2} = \frac{-b \pm \sqrt{D}}{2a}
-
 $$
 
 ,-**Discriminant formula and roots of a quadratic equation**;
 
 $$
-
 \frac{AA'}{BB'} = \frac{AC}{BC} = \frac{\alpha}{\beta}
-
 $$
 
 ,-**Thales' theorem**;
