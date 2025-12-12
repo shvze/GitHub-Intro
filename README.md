@@ -29,20 +29,41 @@ Hello! My name is Sasha, I am 18 years old and I study at KHPI. This is my repos
 Here are some of my favorite math formulas:
 
 $$
-a^2+b^2=c^2
+
+ax^2+bx+c=0;
+
 $$
-,-**Pythagorean theorem**;
-The formula that allows you to find the length of the side of a right triangle:
+
 $$
-S=πr^2
+
+α+β=-\frac{b}{a}​,αβ=\frac{c}{a}
+
 $$
-,-**Formula for the area of a circle**;
-Used to calculate how much “space” a circle occupies
+
+,-**Viète's formulas for quadratic equations**;
+
 $$
-(a+b)^2=a^2+2ab+b^2
+
+D = b^{2} - 4ac
+
 $$
-,-**Sum of squares**;
-Formula for expanding parentheses when squaring a sum
+
+$$
+
+x_{1,2} = \frac{-b \pm \sqrt{D}}{2a}
+
+$$
+
+,-**Discriminant formula and roots of a quadratic equation**;
+
+$$
+
+\frac{AA'}{BB'} = \frac{AC}{BC} = \frac{\alpha}{\beta}
+
+$$
+
+,-**Thales' theorem**;
+
 
 ## My coding skills
 Here is literally the simplest C++ code
